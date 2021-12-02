@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Software Engineer
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Web developer
 - 📫 Inbox: truongquocdat196nt@gmail.com
 - ⚡ Life purpose: Experience angles
 
