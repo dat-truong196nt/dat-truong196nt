@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning Web developer
+- 🔭 I’m currently working as a FrontEnd Engineer
+- 🌱 I’m currently learning FullStack Web development
 - 📫 Inbox: truongquocdat196nt@gmail.com
 - ⚡ Life purpose: Experience angles
 
